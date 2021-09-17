@@ -8,9 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-main {
-  background-color:#619bdd;
-  color: #2d2769;
+body {
+  background-color: #f5f5f5;
+  color: #4e4e4e;
 }
 
 h1,
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #1e1e1e;
 }
 
 a {
@@ -157,7 +157,7 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #0078ff;;
+  color: #4e4e4e;
 }
 
 .line-mf {
