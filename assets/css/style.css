@@ -8,9 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
-  background-color: #f5f5f5;
-  color: #4e4e4e;
+main {
+  background-color:#619bdd;
+  color: #2d2769;
 }
 
 h1,
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #000000;
 }
 
 a {
@@ -58,7 +58,7 @@ a:hover {
 
 .box-shadow-a, .button:hover {
   text-decoration: none;
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #0078ff;
 }
 
 .display-5 {
@@ -157,7 +157,7 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #0078ff;;
 }
 
 .line-mf {
@@ -341,7 +341,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
+  background: #0078ff;;
   color: #fff;
 }
 
